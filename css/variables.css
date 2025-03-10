@@ -10,10 +10,9 @@
     --color-7: #F2EAE1;
 }
 
-
 @font-face{
     font-family: "robot-regular";
-    src: url(../storage/fonts/Roboto_Mono/RobotoMono-Regular.ttf);
+    src: url(../storage/font/fonts/Roboto_Mono/RobotoMono-Regular.ttf);
 }
 
 @font-face{
